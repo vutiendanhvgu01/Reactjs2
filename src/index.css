@@ -11,3 +11,25 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.bg-pic{
+  width: 100%;
+  height: 800px;
+  background-image: url('../public/glassesImage/background.jpg');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-color: black;
+  
+}
+.product-margin{
+  margin-top: 200px;
+}
+.glasses{
+  left: 70px;
+  top: 90px;
+}
+.bg-orange{
+  background-color: rgba(245,164,72,0.4);
+}
+.card-body-position{
+  top: 210px;
+}
